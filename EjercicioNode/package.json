@@ -1,0 +1,20 @@
+{
+  "name": "ejercicionode",
+  "version": "1.0.0",
+  "description": "Ejercicio nombres falsos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "terminal",
+    "testing",
+    "fakewords"
+  ],
+  "author": "LauraCanon",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
