@@ -1,0 +1,23 @@
+{
+  "name": "jetjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LauraCanon/jest.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LauraCanon/jest.js/issues"
+  },
+  "homepage": "https://github.com/LauraCanon/jest.js#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
